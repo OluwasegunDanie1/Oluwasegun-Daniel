@@ -17,10 +17,6 @@ I build beautiful, fast and scalable mobile apps using **Flutter**, **Dart**, **
 - **Task Manager App** – Create, update and track daily tasks  
 - **Food Delivery App** – Firebase authentication, cart system, product UI & search
 
- 🌱 Currently Learning
-- Riverpod  
-- Clean Architecture  
-- App deployment (Play Store)
 
 📫 Contact
 Email: dandev914@gmail.com  
