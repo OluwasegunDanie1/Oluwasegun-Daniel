@@ -14,7 +14,7 @@ I build beautiful, fast and scalable mobile apps using **Flutter**, **Dart**, **
 - UI/UX Design
 
  📱 Featured Projects
-- **Task Manager App** – Create, update and track daily tasks  
+- **Task Manager App** – Create, update and track daily tasks https://github.com/OluwasegunDanie1/task_manager_app  
 - **Food Delivery App** – Firebase authentication, cart system, product UI & search
 
 
